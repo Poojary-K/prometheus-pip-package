@@ -1,0 +1,1 @@
+from .flask_prometheus_metrics import PrometheusMetrics
